@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00_Snail_Trail_Original", "00_Snail_Trail_Original\00_Snail_Trail_Original.vcxproj", "{62D4BE70-D147-4EEE-A81D-4A65809EE1F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_Snail_Trail_Automated_Original", "02_Snail_Trail_Automated_Original\02_Snail_Trail_Automated_Original.vcxproj", "{F30A047C-6E7C-4895-AA96-81DB79A99A44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Snail_Trail_Recording", "01_Snail_Trail_Recording\01_Snail_Trail_Recording.vcxproj", "{750A5D68-BF58-4E6A-9C38-5F10EA09893C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Snail_Trail_Compiler_Optimized_I", "03_Snail_Trail_Compiler_Optimized_I\03_Snail_Trail_Compiler_Optimized_I.vcxproj", "{9F81A661-012A-4973-969D-B38EAD6095F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Snail_Trail_Console_Output_Optimized", "04_Snail_Trail_Console_Output_Optimized\04_Snail_Trail_Console_Output_Optimized.vcxproj", "{4E28F5B6-D6F9-41DD-B315-169B263FA2AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D4BE70-D147-4EEE-A81D-4A65809EE1F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62D4BE70-D147-4EEE-A81D-4A65809EE1F7}.Debug|Win32.Build.0 = Debug|Win32
+		{62D4BE70-D147-4EEE-A81D-4A65809EE1F7}.Release|Win32.ActiveCfg = Release|Win32
+		{62D4BE70-D147-4EEE-A81D-4A65809EE1F7}.Release|Win32.Build.0 = Release|Win32
+		{F30A047C-6E7C-4895-AA96-81DB79A99A44}.Debug|Win32.ActiveCfg = Release|Win32
+		{F30A047C-6E7C-4895-AA96-81DB79A99A44}.Debug|Win32.Build.0 = Release|Win32
+		{F30A047C-6E7C-4895-AA96-81DB79A99A44}.Release|Win32.ActiveCfg = Release|Win32
+		{F30A047C-6E7C-4895-AA96-81DB79A99A44}.Release|Win32.Build.0 = Release|Win32
+		{750A5D68-BF58-4E6A-9C38-5F10EA09893C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{750A5D68-BF58-4E6A-9C38-5F10EA09893C}.Debug|Win32.Build.0 = Debug|Win32
+		{750A5D68-BF58-4E6A-9C38-5F10EA09893C}.Release|Win32.ActiveCfg = Release|Win32
+		{750A5D68-BF58-4E6A-9C38-5F10EA09893C}.Release|Win32.Build.0 = Release|Win32
+		{9F81A661-012A-4973-969D-B38EAD6095F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F81A661-012A-4973-969D-B38EAD6095F8}.Debug|Win32.Build.0 = Debug|Win32
+		{9F81A661-012A-4973-969D-B38EAD6095F8}.Release|Win32.ActiveCfg = Release|Win32
+		{9F81A661-012A-4973-969D-B38EAD6095F8}.Release|Win32.Build.0 = Release|Win32
+		{4E28F5B6-D6F9-41DD-B315-169B263FA2AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E28F5B6-D6F9-41DD-B315-169B263FA2AC}.Debug|Win32.Build.0 = Debug|Win32
+		{4E28F5B6-D6F9-41DD-B315-169B263FA2AC}.Release|Win32.ActiveCfg = Release|Win32
+		{4E28F5B6-D6F9-41DD-B315-169B263FA2AC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
